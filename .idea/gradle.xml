@@ -12,7 +12,10 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/calculator" />
             <option value="$PROJECT_DIR$/p0051layoutfiles" />
+            <option value="$PROJECT_DIR$/p0091_onclickbuttons" />
+            <option value="$PROJECT_DIR$/p0101_listener" />
             <option value="$PROJECT_DIR$/p0180constraintlayoutintro" />
+            <option value="$PROJECT_DIR$/viewbyid" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
